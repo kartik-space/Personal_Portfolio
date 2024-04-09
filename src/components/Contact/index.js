@@ -1,8 +1,7 @@
-import React from 'react'
-import styled from 'styled-components'
-import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { Snackbar } from '@mui/material';
+import React, { useRef } from 'react';
+import styled from 'styled-components';
 
 const Container = styled.div`
 display: flex;
@@ -130,7 +129,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm('service_zsis6z8', 'template_7bzvn55', form.current, 'ZXUfynF0Hdb-i7ukUGFHN')
       .then((result) => {
         setOpen(true);
         form.current.reset();
