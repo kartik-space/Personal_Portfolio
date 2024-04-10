@@ -212,7 +212,7 @@ export const education = [
     school: "Jaypee University Of Information Technology",
     date: "Oct 2022 - Sep 2026",
     // grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Jaypee University Of Information Technology, Solan.",
+   // desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Jaypee University Of Information Technology, Solan.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
