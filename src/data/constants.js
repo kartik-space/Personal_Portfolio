@@ -193,7 +193,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/D4D0BAQFjfIIrN8OFeA/company-logo_200_200/0/1702286015162?e=1719446400&v=beta&t=qMhvx_IN-GAgQ-e17KbIMRBnDA9yiF3u-rP2kZHnbzk",
     role: "Frontend Developer Intern",
     company: "Rudraksha Welffare Foundation",
-    date: "June 2023- Dec 2023",
+    date: "Aug 2023- Nov 2023",
     desc: "As an Frontend Developer Intern at Exponance from June 2023 to December 2023, I gained valuable hands-on experience in Web development. During my tenure, I contributed to the development of the application's front-end with the MVVM structure, which was designed using Figma. This internship helped me enhance my skills in Web development and gave me an opportunity to work in a collaborative team environment.",
     skills: [
       "React Js",
