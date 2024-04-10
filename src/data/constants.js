@@ -212,7 +212,7 @@ export const education = [
     school: "Jaypee University Of Information Technology",
     date: "Oct 2022 - Sep 2026",
     // grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Jaypee University Of Information Technology, Solan. I have completed 3 semesters and have a CGPA of 6.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems and Operating Systems, among others.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Jaypee University Of Information Technology, Solan.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -221,7 +221,7 @@ export const education = [
     school: "DAV Public School, Palampur",
     date: "Apr 2020 - Apr 2021",
     grade: "84.2%",
-    desc: "I completed my class 12 high school education at DAV Public School, Palampur, where I studied Science.",
+    desc: "I completed my class 12 high school education at DAV Public School, Palampur",
     degree: "CBSE(XII), Science",
   },
   {
@@ -230,7 +230,7 @@ export const education = [
     school: "DAV Public School, Palampur",
     date: "Apr 2018 - Apr 2019",
     grade: "82%",
-    desc: "I completed my class 10 education at DAV Public School, Palampur, where I studied Science",
+    desc: "I completed my class 10 education at DAV Public School, Palampur",
     degree: "CBSE(X)",
   },
 ];
