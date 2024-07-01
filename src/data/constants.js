@@ -9,9 +9,9 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/kartik-space",
-  // ! make resume
+
   resume:
-    "https://drive.google.com/file/d/1_dFOxPM4VHFd1f26tWhZCW8VUbaZOXyB/view?usp=sharing",
+    "https://drive.google.com/file/d/1L3D4bz8veDAhfhfbIaMHMLABCfhb-WIG/view",
   linkedin: "https://www.linkedin.com/in/kartiksharma244/",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/kartik.__.0/",
@@ -212,7 +212,7 @@ export const education = [
     school: "Jaypee University Of Information Technology",
     date: "Oct 2022 - Sep 2026",
     // grade: "8.71 CGPA",
-   // desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Jaypee University Of Information Technology, Solan.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Jaypee University Of Information Technology, Solan.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -237,9 +237,28 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 7,
+    title: "Meeting Rooms",
+    date: "April 2024 - May 2024",
+    description:
+      "Developed a TypeScript-based meeting room solution integrating Clerk and Stream. Enables launching, scheduling, and recording meetings.Offers personalized meeting rooms accessible via unique links.Streamlined user authentication and access control with Clerk.Enhances productivity and collaboration through intuitive interface and advanced features.",
+    image:
+      "https://camo.githubusercontent.com/932e210f5484422d7b3c647ce9adc6a85bb41182aea1ab3bc689976c79d3ebf1/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d313475345168726a3048744a747332435f546f34536b506c4779566a4841733061",
+    tags: [
+      "Clerk",
+      "Stream",
+      "TypeScript",
+      "Next js",
+      "Java script"
+    ],
+    category: "web app",
+    github: "https://github.com/kartik-space/zoom_clone",
+    webapp: "https://github.com/kartik-space/zoom_clone",
+  },
+  {
+    id: 6,
     title: "Twitter Backend",
-    date: "March 2024 - April 2023",
+    date: "March 2024 - April 2024",
     description:
       "Integrated AWS SES for OTP-based Authentication. Used Prisma for Database Interaction. Built REST API with Express. Implemented CRUD Operations for Users and Tweets. Passwordless Authentication",
     image:
@@ -345,7 +364,7 @@ export const projects = [
   },
 
   {
-    id: 10,
+    id: 5,
     title: "Bliss",
     date: "Nov 2022 - Dec 2022",
     description:
