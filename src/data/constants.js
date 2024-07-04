@@ -253,7 +253,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/kartik-space/zoom_clone",
-    webapp: "https://github.com/kartik-space/zoom_clone",
+    webapp: "https://zoom-clone1-mu.vercel.app/",
   },
   {
     id: 6,
